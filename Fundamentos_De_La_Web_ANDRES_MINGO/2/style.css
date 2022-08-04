@@ -1,0 +1,26 @@
+h1 {
+    color: aqua;
+    background-color: black;
+    font-family: cursive;
+    padding: 4px;
+    font-size: 40px;
+    
+}
+h2 {
+    color: aliceblue;
+    background-color: blueviolet;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align:  center; 
+    font-weight: lighter;
+    padding: 10px;
+}
+h3 {
+    color: darkslateblue;
+    background-color: cornflowerblue;
+    font-family: cursive;
+    text-align: right;
+    font-weight: lighter;
+    padding: 6px;
+    text-decoration: underline;
+}
