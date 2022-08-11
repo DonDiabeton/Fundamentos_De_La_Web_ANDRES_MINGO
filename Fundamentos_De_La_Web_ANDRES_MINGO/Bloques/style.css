@@ -26,8 +26,7 @@
     padding: 1%;
     margin: 2%;
     vertical-align: top;
-    padding-top: 7,5;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .sub-content {
     height: 200px;
@@ -36,14 +35,15 @@
     display: inline-block;
     vertical-align: auto;
     margin: 1%;
+ 
 }
 #advertisement {
     height: 120px;
-    width: 660px;
+    width: 560px;
     background-color: purple;
-    margin-top: -10px;
-    margin-bottom: -10px;
-    margin: 1%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 4%;
 
 }
 .row {
