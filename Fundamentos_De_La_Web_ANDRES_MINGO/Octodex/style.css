@@ -1,0 +1,70 @@
+.container {
+    width: 90%;
+    height: 300px;
+    background-color: rgb(40, 109, 220);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.container-2{
+    width: 90%;
+    height: 300px;
+    background-color: blueviolet;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.container-3 {
+    width: 90%;
+    height: 300px;
+    background-color: darkslategrey;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+h1 {
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+body {
+    background-color: black;
+}
+octocat1.jpg {
+    height: 20px;
+    display: block;
+}
+octocat2.png {
+    height: 20px;
+    display: inline-block;
+}
+octocat3.jpg {
+    height: 20px;
+    display: inline-block;
+}
+octocat4.jpg {
+    height: 20px;
+    display: inline-block;
+}
+octocat5.jpg {
+    height: 20px;
+    display: inline-block;
+}
+octocat6.png {
+    height: 20px;
+    display: inline-block;
+}
+octocat7.png {
+    height: 20px; 
+    display: inline-block;
+}
+octocat8.gif {
+    height: 20px;
+    display: inline-block;
+}
+
+
